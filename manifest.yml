@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-demo
+- name: learn-az-devops-pcf
   memory: 768M
   instances: 1
   random-route: true
